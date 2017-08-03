@@ -1,0 +1,14 @@
+{
+    "CN": "etcdsandboxCA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "ZA",
+            "O": "My etcdsandbox Org",
+            "OU": "Only for testing"
+        }
+    ]
+}

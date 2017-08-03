@@ -1,0 +1,18 @@
+{
+    "CN": "etcdsandbox1",
+    "hosts": [
+        "etcdsandbox1"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "ZA",
+            "O": "My etcdsandbox1 client",
+            "OU": "Only for testing"
+        }
+    ]
+}
+
